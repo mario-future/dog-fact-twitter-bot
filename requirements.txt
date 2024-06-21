@@ -1,0 +1,6 @@
+requests
+redis
+requests_oauthlib
+Flask
+python-dotenv
+gunicorn
